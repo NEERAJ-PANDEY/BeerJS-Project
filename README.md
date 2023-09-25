@@ -12,7 +12,7 @@ Here you can see some screens of this web application:
 <br>
 
 <img
-src="[/sc](https://github.com/NEERAJ-PANDEY/BeerJS-Project/blob/725454ec2578ce4ad617916b92fc7feb3606d1a4/Screenshot%20(1440).png)"
+src="(https://github.com/NEERAJ-PANDEY/BeerJS-Project/blob/725454ec2578ce4ad617916b92fc7feb3606d1a4/Screenshot%20(1440).png)"
 raw=true
 alt="Search and modal" 
 height="512px" 
