@@ -1,0 +1,132 @@
+/* styles.css */
+
+/* Style for the search container */
+
+header {
+    height: 12vh;
+    background: black;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    
+    font-size: 2.2vw;
+    color: white;
+}
+h1 {
+    
+    font-size: 2.2vw;
+    color: white;
+}
+p{
+    padding: .75vw;
+    text-align: center;
+}
+
+/*    Search and Reset here     */
+
+.search-container{
+    display: flex;
+    align-items: center;
+    justify-content:center; 
+    margin: 45px;
+    
+}
+.search1{
+    height: 5vh;
+    width: 35vw;
+    border: 1px solid rgb(231, 225, 225);
+    border-radius: 3px;
+    
+}
+#search-button{
+    color: white;
+    background-color: black;
+    height: 5.5vh;
+    width:6vw;
+    margin-left: 2px;
+    border-radius: 3px;
+}
+.btn-reset{
+ color: white;
+ background-color: black;
+ height: 5.5vh;
+ width:6vw;
+ margin-left: 25px;
+ border-radius: 3px;
+}
+#search-button:hover, #reset-button:hover {
+    background-color: #0056b3;
+}
+
+ /*   footer  */
+
+footer  {
+    height: 18vh;
+    background: black;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+h3{
+    
+    text-shadow: rgb(223, 208, 208) .2vw .2vw .2vw;
+    color: white;
+    margin-left: 30px;
+}
+
+/* Style for the product row */
+.product-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    margin-bottom: 20px;
+}
+
+/* Style for the product card */
+.product-card {
+    width: 20%; /* 4 cards per row with some spacing */
+    height: 55vh;
+    padding: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Style for the product image */
+.product-card img {
+    height: 40vh;
+    width: auto; 
+    margin-bottom: 10px;
+}
+
+/* Style for the product name */
+.product-card p {
+    font-size: 14px;
+    margin: 0;
+}
+
+/* Style for pagination */
+.pagination {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.pagination li {
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.pagination li:hover {
+    background-color: #f0f0f0;
+}
