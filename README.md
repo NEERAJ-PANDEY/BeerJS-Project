@@ -1,7 +1,8 @@
 # BeerJS-Project
 
-Deploy link: https://neeraj-pandey.github.io/BeerJS-Project/
+[Deployed Link](https://neeraj-pandey.github.io/BeerJS-Project/)
 
+## Desription
 #  BEER PROJECT & THE FELLOWSHIP OF THE BEER - A frontend challenge
 
 The  BEER PROJECT & THE FELLOWSHIP OF THE BEER Challenge is a frontent project used to study and explore APIs and Js. Some techs used: Js, HTML, CSS, Javascript and Bootstrap. This web application uses and consumes The API,
@@ -29,4 +30,22 @@ height="512px"
 />
 
 <br>
+<br>
+## Getting Started
+
+1. Click 
+2. Click on a beer card of your choice.
+3. Learn about this beer!
+
+## Technologies
+
+Built with  JavaScript, HTML, and CSS
+
+## License
+
+-Geekster
+
+### Created by Neeraj Pandey
+
+neerajpandey.live@gmail.com
 <br>
