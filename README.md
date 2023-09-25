@@ -12,9 +12,9 @@ Here you can see some screens of this web application:
 <br>
 
 <img
-src="https://github.com/NEERAJ-PANDEY/BeerJS-Project/blob/725454ec2578ce4ad617916b92fc7feb3606d1a4/Screenshot%20(1440).png)"
+src="https://github.com/NEERAJ-PANDEY/BeerJS-Project/blob/684ba59174e0518a3b4a8433750ae6d0e49d06b2/Screenshot%20(1440).png"
 raw=true
-alt="Search and modal" 
+alt="Advanced search screen" 
 height="512px" 
 />
 
